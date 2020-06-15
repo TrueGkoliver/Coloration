@@ -1,0 +1,7 @@
+{
+	"parent" : "item/generated",
+	"textures" : {
+		"layer0" : "coloration:item/paintroller-1",
+		"layer1" : "coloration:item/paintroller-0"
+	}
+}
